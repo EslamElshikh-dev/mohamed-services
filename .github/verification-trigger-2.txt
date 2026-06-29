@@ -1,1 +1,0 @@
-Trigger Google Search Console verification replacement.
